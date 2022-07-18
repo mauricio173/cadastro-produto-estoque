@@ -5,3 +5,7 @@ git commit -m "first commit"
 git branch -M main 
 git remote add origin https://github.com/mauricio173/cadastro- produto-estoque.git
  git push -u origin main
+
+/*
+Para acessar: https://mauricio173.github.io/cadastro-produto-estoque/
+*/
