@@ -18,6 +18,10 @@
     display: inline;
 }
 table {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     clear:both; 
     background-color: rgb(5, 12, 105);
     border-radius: 10px; 
